@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+My name is Alyssa and I am a sophomore at St. Lawrence University in Canton, NY.
+
+I am double majoring in Mathematics and Statistics with a minor in Computer Science.
+
 <!--
 **agbign20/agbign20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
