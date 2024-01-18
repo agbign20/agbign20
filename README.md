@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Alyssa and I am a sophomore at St. Lawrence University in Canton, NY.
+My name is Alyssa and I am a senior at St. Lawrence University in Canton, NY.
 
 I am double majoring in Mathematics and Statistics with a minor in Computer Science.
 
